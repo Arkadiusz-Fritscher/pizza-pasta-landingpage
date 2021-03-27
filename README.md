@@ -1,4 +1,4 @@
-# podcasthunt-app
+# Vue3 Starter with vuex, router and tailwindcss
 
 ## Project setup
 ```
