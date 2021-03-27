@@ -4,11 +4,7 @@ import getters from "./getters";
 import actions from "./actions";
 
 export default createStore({
-  state: {
-    data() {
-      return {};
-    },
-  },
+  state: {},
   mutations,
   actions,
   getters,
